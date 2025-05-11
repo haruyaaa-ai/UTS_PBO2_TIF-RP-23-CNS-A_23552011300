@@ -29,5 +29,5 @@ Polymorphism terlihat dari method verifikasi() yang ada di class TenagaMedis. Me
 Abstraction diterapkan dengan menggunakan class TenagaMedis sebagai abstract class. Class ini mendefinisikan struktur umum untuk entitas tenaga medis tanpa memberikan implementasi langsung untuk semua method. Hanya class turunan seperti Dokter dan Apoteker yang menyediakan implementasi nyata dari method verifikasi(). Ini menyederhanakan logika program dan membantu fokus pada fitur penting tanpa memikirkan detail teknisnya
 
 # Demo Proyek
-- Github: Github
+- Github: [Github](URL)
 - Youtube: Youtube
