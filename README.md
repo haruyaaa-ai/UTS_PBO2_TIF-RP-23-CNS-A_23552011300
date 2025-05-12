@@ -1,6 +1,6 @@
 # UTS Pemrograman Berorientasi Obyek 2
 - Mata Kuliah: Pemrograman Berorientasi Obyek 2
-- Dosen Pengampu: Muhammad Ikhwan Fathulloh
+- Dosen Pengampu: [Muhammad Ikhwan Fathulloh](https://github.com/Muhammad-Ikhwan-Fathulloh)
 
 # Profil
 - Nama: Damar Satritama Putra
