@@ -1,4 +1,3 @@
-# UTS_PBO2_TIF-RP-23-CNS-A_23552011300
 # UTS Pemrograman Berorientasi Obyek 2
 - Mata Kuliah: Pemrograman Berorientasi Obyek 2
 - Dosen Pengampu: Muhammad Ikhwan Fathulloh
@@ -30,4 +29,4 @@ Abstraction diterapkan dengan menggunakan class TenagaMedis sebagai abstract cla
 
 # Demo Proyek
 - Github: [Github](https://github.com/haruyaaa-ai/UTS_PBO2_TIF-RP-23-CNS-A_23552011300)
-- Youtube: Youtube
+- Youtube: [Youtube](https://youtu.be/RJI7jII-GJs)
